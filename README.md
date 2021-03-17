@@ -37,7 +37,6 @@
 
 ### Code History
 
-
 <img src="https://static-assets.codecademy.com/Paths/ios-skill-path/code-history-project/codeHistoryFinal.gif" alt="codeHistoryGif" height="500"/>
 
 ### Build an Address Book with Property Wrappers
