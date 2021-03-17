@@ -37,7 +37,7 @@
 
 ### Code History
 
-<img src="https://static-assets.codecademy.com/Paths/ios-skill-path/code-history-project/codeHistoryFinal.gif" alt="codeHistoryGif" height="500"/>
+<img src="https://github.com/Codecademy/build-ios-apps-with-swiftui/blob/main/codeHistoryFinal.gif" alt="codeHistoryGif" height="500"/>
 
 ### Build an Address Book with Property Wrappers
 
