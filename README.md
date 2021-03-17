@@ -24,45 +24,31 @@
 
 **Curriculum Developer:** Galina Podstrechnaya [![alt text][2]][2.4]
 
-## Skill Path Link ##
+## [Skill Path Link](https://www.codecademy.com/learn/paths/build-ios-apps-with-swiftui) ##
 
 
 
-### Swift Language Documentation and Development Resources ###
+### External Resources ###
 
-[Swift Language Documentation](https://swift.org/documentation/)
-[Swift Development Resources](https://developer.apple.com/swift/resources/)
+- [Swift Language Documentation](https://swift.org/documentation/)
+- [Swift Development Resources](https://developer.apple.com/swift/resources/)
 
-## 1. iOS and Swift Foundations ##
+## iOS Projects
 
-
-## 2. Wireframing and Creating a Project in Xcode ##
-
-
-## 3. Creating User Interfaces with SwiftUI ##
+### Code History
 
 
-## 4. Building the App: Part 1 ##
+<img src="https://static-assets.codecademy.com/Paths/ios-skill-path/code-history-project/codeHistoryFinal.gif" alt="codeHistoryGif" height="500"/>
+
+### Build an Address Book with Property Wrappers
+
+<img src="https://static-assets.codecademy.com/Paths/ios-skill-path/property-wrappers-and-binding-article/address-book-final.gif" alt="Address Book" height="500"/>
+
+### Build a Store using Navigation
+
+<img src="https://static-assets.codecademy.com/Paths/ios-skill-path/intro-to-navigation-swiftui/6-navigation-add-multiple-items.gif" alt="Store with Navigation" height="500"/>
 
 
-## 5. Building the App: Part 2 ##
+### Swift Language Projects
 
-
-## 6. Building the App: Part 3 ##
-
-
-## 7. Publishing to the App Store ##
-
----
-
-### Cheatsheets ###
-
-Coming Soon!
-
-
-## Contribution Guidelines
-
-We'd love to have you contribute! 
-
-Please note that this project is released with a [Contributor Covenant](https://www.contributor-covenant.org).
-By participating in this project you agree to abide by its terms.
+View and submit solutions for the Swift language projects at the [Learn Swift Course](https://github.com/Codecademy/learn-swift) repo.
