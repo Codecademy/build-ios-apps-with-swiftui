@@ -24,7 +24,7 @@
 
 **Curriculum Developer:** Galina Podstrechnaya [![alt text][2]][2.4]
 
-## Beta Testsers
+### Beta Testers
 
 - [Code-neutrino-1](https://github.com/Code-neutrino-1)
 - [Victoria-DR](https://github.com/Victoria-DR)
