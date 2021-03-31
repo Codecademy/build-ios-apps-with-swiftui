@@ -24,6 +24,13 @@
 
 **Curriculum Developer:** Galina Podstrechnaya [![alt text][2]][2.4]
 
+## Beta Testsers
+
+- [Code-neutrino-1](https://github.com/Code-neutrino-1)
+- [Victoria-DR](https://github.com/Victoria-DR)
+- [saddzoe](https://github.com/saddzoe)
+- [SelectLearns](https://github.com/SelectLearns)
+
 ## [Skill Path Link](https://www.codecademy.com/learn/paths/build-ios-apps-with-swiftui) ##
 
 
